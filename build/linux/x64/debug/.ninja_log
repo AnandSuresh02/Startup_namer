@@ -1,0 +1,28 @@
+# ninja log v5
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/libflutter_linux_gtk.so	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_engine.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_value.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/fl_view.h	7dc4706d73a0f88c
+0	13219	0	/home/anand/Documents/VS Code/startup_namer/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	7dc4706d73a0f88c
+0	13219	0	flutter/_phony_	7dc4706d73a0f88c
+13220	14280	1660369524	CMakeFiles/startup_namer.dir/flutter/generated_plugin_registrant.cc.o	ed3c12eab77157a7
+13219	14797	1660369524	CMakeFiles/startup_namer.dir/main.cc.o	3d694280ff4ae90
+13219	14845	1660369524	CMakeFiles/startup_namer.dir/my_application.cc.o	cbe6196e453a44fe
+14845	15181	1660369525	intermediates_do_not_run/startup_namer	a3c8629d33816239
+15181	15437	0	CMakeFiles/install.util	91041087c41d6ff6

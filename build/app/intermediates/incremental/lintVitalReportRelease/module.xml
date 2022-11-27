@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/anand/Documents/VS Code/Startup Namer/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/home/anand/Documents/VS Code/Startup Namer/build/app"
+    bootClassPath="/home/anand/Android/Sdk/platforms/android-31/android.jar:/home/anand/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

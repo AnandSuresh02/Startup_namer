@@ -1,0 +1,4 @@
+#Sat Aug 13 11:45:11 IST 2022
+base.0=/home/anand/Documents/VS Code/Startup Namer/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
